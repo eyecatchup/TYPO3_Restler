@@ -13,5 +13,6 @@
         "psr-0": {
             "Luracast\\Restler\\": "vendor/luracast/restler/vendor/"
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
