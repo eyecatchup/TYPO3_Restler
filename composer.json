@@ -3,6 +3,7 @@
     "require": {
         "luracast/restler": "dev-v3"
     },
+    "minimum-stability": "dev",
     "repositories": [
         {
             "type": "package",
