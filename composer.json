@@ -1,5 +1,5 @@
 {
-    "name": "aoe/typo3-cms-extension-restler",
+    "name": "AOEpeople/TYPO3_Restler",
     "require": {
         "luracast/restler": "dev-v3"
     },
