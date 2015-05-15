@@ -1,7 +1,7 @@
 {
     "name": "aoe/typo3-cms-extension-restler",
     "require": {
-        "luracast/restler": "dev-v3"
+        "luracast/restler": "dev-master"
     },
     "repositories": [
         {
@@ -13,6 +13,5 @@
         "psr-0": {
             "Luracast\\Restler\\": "vendor/luracast/restler/vendor/"
         }
-    },
-    "minimum-stability": "dev"
+    }
 }
