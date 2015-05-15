@@ -5,8 +5,16 @@
     },
     "repositories": [
         {
-            "url": "https://github.com/AOEpeople/Restler",
-            "type": "vcs"
+            "type": "package",
+            "package": {
+                "name": "luracast/restler",
+                "version": "dev-v3",
+                "source": {
+                    "url": "https://github.com/AOEpeople/Restler.git",
+                    "type": "git",
+                    "reference": "origin/v3"
+                }
+            }
         }
     ],
     "autoload": {
