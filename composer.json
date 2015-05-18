@@ -22,5 +22,10 @@
         "psr-0": {
             "Luracast\\Restler\\": "vendor/luracast/restler/vendor/"
         }
-    }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-feature/composer": "3.0.x-dev"
+        }
+    }    
 }
