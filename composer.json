@@ -1,22 +1,14 @@
 {
     "name": "aoe/typo3-cms-extension-restler",
     "require": {
-        "luracast/restler": "dev-v3"
+        "luracast/restler": "3.*@dev"
     },
     "minimum-stability": "dev",
     "repositories": [
         {
-            "type": "package",
-            "package": {
-                "name": "luracast/restler",
-                "version": "dev-v3",
-                "source": {
-                    "url": "https://github.com/AOEpeople/Restler.git",
-                    "type": "git",
-                    "reference": "origin/v3"
-                }
-            }
-        }
+            "type": "git",
+            "url": "https://github.com/Luracast/Restler.git"
+        }        
     ],
     "autoload": {
         "psr-0": {
