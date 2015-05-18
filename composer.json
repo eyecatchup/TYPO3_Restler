@@ -1,5 +1,5 @@
 {
-    "name": "aoe/restler",
+    "name": "eyecatchup/restler",
     "require": {
         "luracast/restler": "dev-v3"
     },
