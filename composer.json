@@ -25,7 +25,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-feature/composer": "3.0.x-dev"
+            "dev-feature/composer": "1.0.x-dev"
         }
     }    
 }
