@@ -1,5 +1,6 @@
 {
     "name": "eyecatchup/restler",
+    "type": "typo3-cms-extension",
     "require": {
         "luracast/restler": "3.*@dev"
     },
