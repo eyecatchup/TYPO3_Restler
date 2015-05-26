@@ -1,6 +1,15 @@
 {
     "name": "eyecatchup/restler",
     "type": "typo3-cms-extension",
+    "description": "A TYPO3-Extension, that integrates the popular PHP REST-framework Restler in TYPO3.",
+    "homepage": "https://typo3.org/extensions/repository/view/restler",
+    "license": "GPLv3",
+    "authors": [
+        {
+            "name": "AOE GmbH",
+            "email": "dev@aoe.com"
+        }
+    ],
     "require": {
         "typo3/cms": "*",
         "luracast/restler": "3.*@dev"
@@ -15,5 +24,11 @@
         "branch-alias": {
             "dev-feature/composer": "1.0.x-dev"
         }
-    }    
+    },
+    "keywords" : [
+        "TYPO3",
+        "Restler",
+        "REST",
+        "API"
+    ]
 }
